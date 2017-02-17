@@ -1,1 +1,1 @@
-# Management_System
+# Equipment_Management_System
